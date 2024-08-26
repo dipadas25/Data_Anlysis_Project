@@ -2,7 +2,11 @@
 Diwali Sale Analysis
 Project Overview
 This project aims to analyze sales data from a Diwali sale event to uncover insights that can inform marketing strategies, customer segmentation, and product performance. The analysis was conducted using Python, leveraging libraries like Pandas, NumPy, Matplotlib, and Seaborn for data processing, visualization, and statistical analysis.
+
+
 #TOOLS & TECHNOLOGIES
+
+
 Programming Language: Python
 Libraries:
 Pandas for data manipulation
@@ -11,7 +15,9 @@ Matplotlib & Seaborn for data visualization
 Scikit-learn for clustering and segmentation analysis
 Jupyter Notebook: For interactive data analysis and visualization
 SQLite: For storing and querying large datasets (optional)
-Key Findings
+
+#KEY FINDINGS
+
 Top Performing Products: The analysis revealed that electronic gadgets were the most purchased items during the Diwali sale.
 Customer Segmentation: Younger customers (aged 18-25) were the most active during the sale, especially in urban areas.
 Sales Trends: The highest sales volume was observed in the first two days of the Diwali festival, indicating the effectiveness of early promotional offers.
